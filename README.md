@@ -1,5 +1,5 @@
 # Cub-Hunting-Programming-Contest
-<h4>Solution to Problems from Cub Hunting Programming Contest 2019, Organized by the Department of Computer Science & Engineering, Jahangirnagar University</h4>
+<h4>Solution to Problems from Cub Hunting Programming Contest 2019, Organized by the Department of Computer Science & Engineering, Jahangirnagar University, Dhaka</h4>
 </br>
 Link to Preliminary Contest: https://www.hackerrank.com/contests/cub-hunting-0/challenges 
 </br>
